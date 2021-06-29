@@ -15,3 +15,9 @@ Elo is one of the biggest and most reliable payment brands in Brazil. "Elo Merch
 4. Execute file *eloHist1.ipynb, eloHist2.ipynb, eloNew.ipynb* to do feature engineering
 5. Execute file *eloModel.ipynb* to get final results.
 6. Submit results on Kaggle
+
+## Appendix
++ Using Google Colab
++ Report: *eloReport.pdf*
++ Poster: *eloPoster.pdf*
++ Slide: *eloSlide.pdf*
