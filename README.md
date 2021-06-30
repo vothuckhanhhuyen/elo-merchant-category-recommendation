@@ -21,4 +21,4 @@ Elo is one of the biggest and most reliable payment brands in Brazil. "Elo Merch
 + Using Google Colab Pro
 + Report: *eloReport.pdf*
 + Poster: *eloPoster.pdf*
-+ Slide: *eloSlide.pdf* **UPDATE SOON**
++ Slide: *eloSlide.pdf* **... UPDATE SOON**
