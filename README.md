@@ -15,7 +15,7 @@ Elo is one of the biggest and most reliable payment brands in Brazil. "Elo Merch
 4. Execute file *eloHist1.ipynb, eloHist2.ipynb, eloNew.ipynb* to do feature engineering.
 5. Execute file *eloModel.ipynb* to get final results.
 6. Submit results on Kaggle.
-7. You can find data we extract at 4 from [here](), you just need to run 5 only.
+7. You can find data we extract at 4 from [here](https://drive.google.com/file/d/1etw6njGw3uI6lFpE4sQlPAHCjxMRi_yw/view), you just need to run 5 only.
 
 ## Appendix
 + Result: achieve score as rank 108 on final private leaderboard.
